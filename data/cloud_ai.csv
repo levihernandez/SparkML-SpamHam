@@ -1,0 +1,10 @@
+id,cloud_vendor,platform,product
+1,azure,AI + Machine Learning,Azure Bot Service
+2,azure,AI + Machine Learning,Azure Databricks
+3,azure,AI + Machine Learning,Azure Cognitive Search
+4,azure,AI + Machine Learning,Bing Autosuggest
+5,azure,AI + Machine Learning,Bing Custom Search
+6,azure,AI + Machine Learning,Bing Entity Search
+7,azure,AI + Machine Learning,Bing Image Search
+8,azure,AI + Machine Learning,Bing News Search
+9,azure,AI + Machine Learning,Bing Spell Check
